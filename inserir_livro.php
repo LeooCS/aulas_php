@@ -15,3 +15,4 @@
 
     echo "inserido com sucesso";
 ?>
+<p><a href="form_cadastrar_livro.html">Voltar</a
