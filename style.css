@@ -1,0 +1,8 @@
+.banner{
+    background-color:rgb(165, 161, 161);
+    width: 300px;
+    text-align: center;
+    border-style: solid 3px;
+    border-width: 1px;
+    border-color: black;
+}
